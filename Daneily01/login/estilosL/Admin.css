@@ -1,0 +1,15 @@
+.cajaUno{
+  background-color: #B37400;
+  width: 1000px;
+  padding: 19px;
+  margin-top: 15px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 3px black;
+}
+
+.textos h1{
+  color: white;
+}
+.textos p{
+  color: white;
+}

@@ -1,0 +1,15 @@
+#cajaPrincipal{
+  background-color: #B37400;
+  width: 1100px;
+  padding: 30px;
+  margin-top: 15px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 3px black;
+
+}
+
+i{
+  margin: 0px;
+  padding: 5px;
+  border-radius: 30px;
+}

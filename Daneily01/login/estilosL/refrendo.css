@@ -1,0 +1,38 @@
+.cajaUno{
+  background-color: #B37400;
+  width: 1000px;
+  padding: 19px;
+  margin-top: 15px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 3px black;
+}
+
+
+
+form input {
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.2);
+  margin: 5px;
+  width: 300px;
+}
+
+.btn{
+  background-color: #0070FF;
+    color: white;
+    padding: 10px;
+    width: 190px;
+    margin-left: 700px;
+}
+
+.btn:hover{
+  background-color: #004FB3;
+    color: white;
+    padding: 10px;
+    width: 190px;
+}
+
+table{
+  border: 1px solid black;
+}

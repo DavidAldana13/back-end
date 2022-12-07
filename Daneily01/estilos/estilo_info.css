@@ -1,0 +1,43 @@
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.infogeneral {
+    background-color: #B37400;
+    width: 1000px;
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.articulos {
+    padding: 10px;
+    width: 470px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.articulos h1 {
+    color: white;
+}
+
+.articulos p {
+    color: white;
+}
+
+.articulos li {
+    color: white;
+}
+
+.maps {
+    padding: 10px;
+    width: 470px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+iframe {
+    border-radius: 10px;
+}
